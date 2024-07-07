@@ -5,6 +5,7 @@ declare module "styled-components" {
     // 여기에 테마 속성을 정의합니다
     bgColor: string;
     textColor: string;
+    blackColor: string;
     accentColor: string;
   }
 }
